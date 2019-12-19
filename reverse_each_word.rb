@@ -1,6 +1,7 @@
 def reverse_each_word(array)
-  array.split
-  array.reverse!
+  new_array = []
+  new_array << array.split
+  
   
   
   
